@@ -1,4 +1,4 @@
-#### <center> Hello , I'm Mohamed Chaouachi 👋
+#### <center> Hello , I'm Mohamed Chaouachi 👋 </center>
 
 
 - 🔭 I’m currently working on a local freelancing platform
