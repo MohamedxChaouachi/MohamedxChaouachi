@@ -3,7 +3,7 @@
 👨‍💻 Excited to contribute to Open Source Projects and collaborate with like-minded developers.
 🚀 Passionate about building cool and impactful projects—let’s create something amazing together!
 📫 Reach out to me: mohamedch.pro@gmail.com
-<p align="center"><img src="https://media.giphy.com/media/QmkA1v7IMqeybQXAYM/giphy.gif" width="200"></p>
+<p align="center"><img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200"></p>
 Keep coding, keep learning, and let’s make a difference—one line at a time!
 
 Connect with me:
