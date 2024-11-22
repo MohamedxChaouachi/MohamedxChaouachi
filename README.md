@@ -1,7 +1,10 @@
-<p align="center">Hello, I'm Mohamed Chaouachi 👋</p>
-<p align="center">A Computer Science Graduate and Software Developer</p>
-🤖 Continuously expanding my skills and always eager to learn new technologies and tools.
-🔭 Currently exploring diverse projects and looking to deepen my expertise across different domains.
-📫 How to reach me: mohamedch.pro@gmail.com
+<p align="center">Hi there! 👋 I'm Mohamed Chaouachi</p>
+<p align="center">A Software Developer and Computer Science Graduate from Tunisia</p>
+👨‍💻 Excited to contribute to Open Source Projects and collaborate with like-minded developers.
+🚀 Passionate about building cool and impactful projects—let’s create something amazing together!
+📫 Reach out to me: mohamedch.pro@gmail.com
+<p align="center"><img src="https://media.giphy.com/media/QmkA1v7IMqeybQXAYM/giphy.gif" width="200"></p>
+Keep coding, keep learning, and let’s make a difference—one line at a time!
+
 Connect with me:
-<a href="https://www.linkedin.com/in/mohamed-chaouachi-86aa3b225/" target=”_blank”><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="35" height="35"></a>
+<a href="https://www.linkedin.com/in/mohamed-chaouachi-86aa3b225/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="35" height="35"></a>
