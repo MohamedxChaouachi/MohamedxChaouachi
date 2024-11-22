@@ -1,12 +1,7 @@
-## <p align="center">  Hello , I'm **Mohamed Chaouachi** 👋 </p>
-### <p align="center">I'm a Computer Science Student and a Software Developer</p>
-
-- 🔭 I’m looking for an End of Studies Internship in the Fieldsof AI and/or Software Development
-- 📫 How to reach me: mohamedch.pro@gmail.com
-- 😄 Pronouns: He/Him
-###  Connect with me :
-<a href="https://www.linkedin.com/in/mohamed-chaouachi-86aa3b225/" target=”_blank” ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png"  width="35" height="35"></a>
-<a href="https://www.facebook.com/mohamed.chaouachi.9047" target=”_blank” ><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Facebook_Logo_%282019%29.png/768px-Facebook_Logo_%282019%29.png"  width="35" height="35"></a>
-###  Languages and Tools Learnt :
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/695px-C_Programming_Language.svg.png"  width="35" height="35"> <img src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-1.png"  width="40" height="40"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/640px-Python_logo_01.svg.png"  width="40" height="40"> 
-<img src="https://camo.githubusercontent.com/114aa59f6bfe1ff7ef3444fbb224078eb6a32c43f0ed03a6c0c3e6df67e049ec/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f666c7574746572696f2f666c7574746572696f2d69636f6e2e737667"  width="35" height="35"> <img src="https://www.seekpng.com/png/full/141-1415372_css3-icon-png.png"  width="35" height="35"> <img src="https://cdn-icons-png.flaticon.com/512/732/732212.png"  width="35" height="35"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png"  width="35" height="35"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/be/Adobe_Photoshop_CS6_icon.png"  width="35" height="35"> <img src="https://www.pngall.com/wp-content/uploads/13/Mongodb-PNG-Image-HD.png"  width="35" height="35"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/2560px-Node.js_logo.svg.png"  width="35" height="35">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"  width="35" height="35"> <img src="https://cdn1.iconfinder.com/data/icons/programing-development-8/24/react_logo-512.png"  width="35" height="35"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png"  width="35" height="35"> <img src="https://www.vincenzoracca.com/images/spring.png"  width="35" height="35"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"  width="35" height="35">
+<p align="center">Hello, I'm Mohamed Chaouachi 👋</p>
+<p align="center">A Computer Science Graduate and Software Developer</p>
+🤖 Continuously expanding my skills and always eager to learn new technologies and tools.
+🔭 Currently exploring diverse projects and looking to deepen my expertise across different domains.
+📫 How to reach me: mohamedch.pro@gmail.com
+Connect with me:
+<a href="https://www.linkedin.com/in/mohamed-chaouachi-86aa3b225/" target=”_blank”><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/640px-LinkedIn_logo_initials.png" width="35" height="35"></a>
